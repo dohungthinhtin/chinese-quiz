@@ -1,0 +1,2 @@
+class AssessmentOptionsController < ApplicationController
+end
